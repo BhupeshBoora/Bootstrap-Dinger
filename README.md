@@ -1,8 +1,8 @@
-# Dinger is a simple Dating website for dogs
+# Dinger
 
 Hello,
 
-I'm Bhupesh Boora, and here's the code I used to create "Dinger".
+I'm Bhupesh Boora, and here's the code I used to create "Dinger" (a dating website for dogs).
 
 I used Bootstrap as well as some external CSS, feel free to have a look inside the code.
 
