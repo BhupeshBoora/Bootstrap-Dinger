@@ -14,6 +14,10 @@
 	height: 100%;
 }
 
+#testimonial
+{
+	background-color: #D0F4DE;
+}
 
 @keyframes gradient {
 	0% {
